@@ -6,8 +6,7 @@ export const UNRELEASED_CHAMPIONS = [
     CHAMPION.PHOENIXDARK,
     CHAMPION.THANOS,
     // Tech
-    CHAMPION.ULTRONCLASSIC,
-    // Mutant
+        // Mutant
     CHAMPION.WEAPONX,
     // Skill
     CHAMPION.REDSKULL,
