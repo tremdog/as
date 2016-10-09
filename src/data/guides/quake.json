@@ -39,6 +39,9 @@
         "type": "reddit",
         "profile": "-JJW-"
     },
-    "description": "When she was a teenager, Daisy Johnson, alias Quake, had her earth-shaking powers accidentally awakened as a result of her mother’s Inhuman lineage. Her devastating powers caught the attention of S.H.I.E.L.D., and Nick Fury took her under his wing to train and mentor her. Her ability to target seismic waves with pinpoint accuracy makes her one of S.H.I.E.L.D.’s most skilled and powerful agents.",
-    "youtube": "MNF_0MrcZFU"
+    "description": "C",
+    "grades": {
+        "normal": "C",
+        "awakened": "C"
+    }
 }
