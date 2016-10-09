@@ -338,7 +338,7 @@ function add(uid, stars) {
         ...roster,
         new Champion({
             ...champion.attr,
-            level: 1,
+            level: 5,
             rank: 1,
         }),
     ];
