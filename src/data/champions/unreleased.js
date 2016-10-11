@@ -9,9 +9,7 @@
  -        // Mutant		
  -    CHAMPION.WEAPONX,		
  -    // Skill		
- -    CHAMPION.REDSKULL,		
- -    // Mystic		
- -    CHAMPION.DRSTRANGEMARVELNOW,		
+ -     -    // Mystic		
  -    CHAMPION.GHOSTRIDER,		
  -    CHAMPION.SCARLETWITCHULTIMATE,		
  -    // Universal		
